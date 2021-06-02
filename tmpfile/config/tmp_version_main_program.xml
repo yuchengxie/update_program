@@ -1,0 +1,16 @@
+<update>
+  <program category="update">
+    <title lang="en">Main Program</title>
+    <author>HZF James</author>
+    <year>2021</year>
+    <month>6</month>
+    <day>1</day>
+    <hours>10</hours>
+    <minutes>30</minutes>
+    <seconds>05</seconds>
+    <name>main program</name>
+    <!-- 000.000.000 -->
+    <version>2</version>
+    <size>1024000</size>
+  </program>
+</update>
